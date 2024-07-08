@@ -4,7 +4,7 @@
 Designer & Desenvolvedor
 ------------------------
 
-Sou designer e desenvolvedora experiente e atuante, trabalho com aplicativos web e layouts de interface do usuário. Formado em design, estou na área de tecnologia desde 2015. Tenho iniciativa, aprendo rápido e sempre busco me aprimorar.
+Sou designer e desenvolvedor experiente e atuante, trabalho com aplicativos web e layouts de interface do usuário. Formado em design, estou na área de tecnologia desde 2015. Tenho iniciativa, aprendo rápido e sempre busco me aprimorar.
 
 * 🖥️  [ArtStation](http://www.artstation.com/joao-sodre)
 * 🖥️  [BeHance](https://www.behance.net/jooemsodrs)
