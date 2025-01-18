@@ -7,7 +7,7 @@ Designer & Desenvolvedor
 I'm a seasoned and active designer and developer specializing in web applications and user interface design. With a formal background in design, I've been contributing to the tech industry since 2015. I'm proactive, a quick learner, and committed to continuous professional development. I possess a strong drive to deliver high-quality work and stay abreast of the latest industry trends and technologies.
 
 * 🖥️ [ArtStation](http://www.artstation.com/joao-sodre)
-* 🖥️ [BeHance](https://www.behance.net/jooemsodrs)
+* 🖥️ [BeHance](https://www.behance.net/jesodre)
 
 ### Skills
 
