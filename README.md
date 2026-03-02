@@ -4,8 +4,10 @@ João Emanoel Sodré
 Designer & Desenvolvedor
 ------------------------
 
-I'm a seasoned and active designer and developer specializing in web applications and user interface design. With a formal background in design, I've been contributing to the tech industry since 2015. I'm proactive, a quick learner, and committed to continuous professional development. I possess a strong drive to deliver high-quality work and stay abreast of the latest industry trends and technologies.
+Developer with a background in Product Design and over 8 years of experience in the technology field. I specialize in web development, backend systems, automation, and system integration, combining structured design thinking with a strong software engineering mindset. My strength lies in bridging design and development, building scalable, intuitive, and efficient solutions. I quickly adapt to new technologies and translate complex requirements into practical, high-quality implementations.
 
+* 🖥️ [Github Extra](https://github.com/louisSrx)
+* 🖥️ [Github Acadêmico](https://github.com/JoaoeSodre)
 * 🖥️ [ArtStation](http://www.artstation.com/joao-sodre)
 * 🖥️ [BeHance](https://www.behance.net/jesodre)
 
